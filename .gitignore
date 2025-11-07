@@ -3,3 +3,4 @@ venv
 __pycache__
 audio
 test.py
+.DS_STORE
