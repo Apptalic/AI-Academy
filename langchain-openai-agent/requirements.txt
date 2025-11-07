@@ -1,0 +1,6 @@
+streamlit 
+openai 
+langchain
+PyPDF2
+beautifulsoup4
+langchain-community
