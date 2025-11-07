@@ -1,0 +1,5 @@
+crewai 
+python-dotenv
+openai 
+# to install this crewai tools, do pip install `crewai[tools]`
+tavily-python
